@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T01:02:56.741269Z",
+  "generated_at": "2026-07-17T04:42:45.737507Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 174,
-      "duration_ms": 10736,
+      "item_count": 188,
+      "duration_ms": 3257,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 3751,
+      "duration_ms": 292,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 42,
-      "duration_ms": 25,
+      "duration_ms": 353,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 463,
+      "duration_ms": 474,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 598,
+      "duration_ms": 317,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 375,
-      "duration_ms": 11276,
+      "item_count": 345,
+      "duration_ms": 17673,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1132,
+      "duration_ms": 2331,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3046,
-      "duration_ms": 1419,
+      "duration_ms": 1438,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 78,
-      "duration_ms": 668,
+      "duration_ms": 699,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 125,
+      "duration_ms": 121,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1051,
+      "duration_ms": 1356,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 263,
+      "duration_ms": 447,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 127,
-      "duration_ms": 1061,
+      "duration_ms": 1421,
       "error": null
     },
     {
@@ -110,8 +110,8 @@
       "site_name": "OPML RSS",
       "ok": true,
       "partial_failures": 2,
-      "item_count": 2188,
-      "duration_ms": 7250,
+      "item_count": 2170,
+      "duration_ms": 7487,
       "error": "2 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -124,9 +124,9 @@
   "successful_sites": 14,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 7257,
-  "items_before_topic_filter": 7461,
-  "items_in_24h": 929,
+  "fetched_raw_items": 7223,
+  "items_before_topic_filter": 7424,
+  "items_in_24h": 913,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -151,7 +151,7 @@
         "effective_feed_url": "https://blog.research.google/feeds/posts/default",
         "ok": true,
         "item_count": 25,
-        "duration_ms": 1364,
+        "duration_ms": 1376,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -166,7 +166,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 829,
-        "duration_ms": 450,
+        "duration_ms": 567,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -181,7 +181,7 @@
         "effective_feed_url": "https://huggingface.co/papers/rss",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 141,
+        "duration_ms": 149,
         "error": "401 Client Error: Unauthorized for url: https://huggingface.co/papers/rss",
         "skipped": false,
         "skip_reason": null,
@@ -196,7 +196,7 @@
         "effective_feed_url": "https://ai.meta.com/blog/rss/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 528,
+        "duration_ms": 366,
         "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss/",
         "skipped": false,
         "skip_reason": null,
@@ -211,7 +211,7 @@
         "effective_feed_url": "https://blogs.nvidia.com/feed/",
         "ok": true,
         "item_count": 18,
-        "duration_ms": 174,
+        "duration_ms": 191,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -226,7 +226,7 @@
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
         "item_count": 1038,
-        "duration_ms": 1052,
+        "duration_ms": 1309,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -241,7 +241,7 @@
         "effective_feed_url": "https://paperswithcode.com/latest/rss",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 1848,
+        "duration_ms": 1947,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -255,8 +255,8 @@
         "feed_url": "http://arxiv.org/rss/cs.CV",
         "effective_feed_url": "http://arxiv.org/rss/cs.CV",
         "ok": true,
-        "item_count": 174,
-        "duration_ms": 563,
+        "item_count": 173,
+        "duration_ms": 685,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -270,8 +270,8 @@
         "feed_url": "http://arxiv.org/rss/cs.GR",
         "effective_feed_url": "http://arxiv.org/rss/cs.GR",
         "ok": true,
-        "item_count": 8,
-        "duration_ms": 450,
+        "item_count": 3,
+        "duration_ms": 343,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -285,8 +285,8 @@
         "feed_url": "https://arxiv.org/rss/cs.RO",
         "effective_feed_url": "https://arxiv.org/rss/cs.RO",
         "ok": true,
-        "item_count": 96,
-        "duration_ms": 680,
+        "item_count": 84,
+        "duration_ms": 554,
         "error": null,
         "skipped": false,
         "skip_reason": null,
